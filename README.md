@@ -41,14 +41,14 @@ Created as a CSS styling exercise for Safatechnology Ltd.
 Build a complete HTML only website
 Screen shoot of Safatechnology Ltd
 1.Index.html
- <img width="508" height="323" alt="image" src="image.png" />
+ <img width="508" height="323" alt="image" src="image.PNG" />
 2.About.html
- <img width="508" height="323" alt="image" src="image2.png" />
+ <img width="508" height="323" alt="image" src="image2.PNG" />
 3.services.html
- <img width="508" height="323" alt="image" src="image3.png" />
+ <img width="508" height="323" alt="image" src="image3.PNG" />
 4.contact.html
- <img width="508" height="323" alt="image" src="image4.png" />
+ <img width="508" height="323" alt="image" src="image4.PNG" />
 5.form.html
- <img width="508" height="323" alt="image" src="image5.png" />
+ <img width="508" height="323" alt="image" src="image5.PNG" />
 6.media.html
- <img width="508" height="323" alt="image" src="image6.png" />
+ <img width="508" height="323" alt="image" src="image6.PNG" />
